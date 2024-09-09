@@ -1,2 +1,2 @@
 # Gospel Music Recommendation System
-A Gospel Music Recommendation System Using Hybrid Content-Based Filter with Spotify API
+A Gospel Music Recommendation System With Hybrid Content-Based Filter Using Spotify API
